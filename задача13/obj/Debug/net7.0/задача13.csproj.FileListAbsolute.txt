@@ -1,0 +1,15 @@
+/Users/mak/Desktop/HomeworkC#/sem2/задача13/obj/Debug/net7.0/задача13.csproj.AssemblyReference.cache
+/Users/mak/Desktop/HomeworkC#/sem2/задача13/obj/Debug/net7.0/задача13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mak/Desktop/HomeworkC#/sem2/задача13/obj/Debug/net7.0/задача13.AssemblyInfoInputs.cache
+/Users/mak/Desktop/HomeworkC#/sem2/задача13/obj/Debug/net7.0/задача13.AssemblyInfo.cs
+/Users/mak/Desktop/HomeworkC#/sem2/задача13/obj/Debug/net7.0/задача13.csproj.CoreCompileInputs.cache
+/Users/mak/Desktop/HomeworkC#/sem2/задача13/bin/Debug/net7.0/задача13
+/Users/mak/Desktop/HomeworkC#/sem2/задача13/bin/Debug/net7.0/задача13.deps.json
+/Users/mak/Desktop/HomeworkC#/sem2/задача13/bin/Debug/net7.0/задача13.runtimeconfig.json
+/Users/mak/Desktop/HomeworkC#/sem2/задача13/bin/Debug/net7.0/задача13.dll
+/Users/mak/Desktop/HomeworkC#/sem2/задача13/bin/Debug/net7.0/задача13.pdb
+/Users/mak/Desktop/HomeworkC#/sem2/задача13/obj/Debug/net7.0/задача13.dll
+/Users/mak/Desktop/HomeworkC#/sem2/задача13/obj/Debug/net7.0/refint/задача13.dll
+/Users/mak/Desktop/HomeworkC#/sem2/задача13/obj/Debug/net7.0/задача13.pdb
+/Users/mak/Desktop/HomeworkC#/sem2/задача13/obj/Debug/net7.0/задача13.genruntimeconfig.cache
+/Users/mak/Desktop/HomeworkC#/sem2/задача13/obj/Debug/net7.0/ref/задача13.dll
